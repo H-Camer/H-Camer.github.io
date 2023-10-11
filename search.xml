@@ -4,13 +4,27 @@
   
     
     <entry>
-      <title>测试文章</title>
-      <link href="/2023/10/09/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-      <url>/2023/10/09/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+      <title>默认口令收集</title>
+      <link href="/2023/10/11/%E9%BB%98%E8%AE%A4%E5%8F%A3%E4%BB%A4%E6%94%B6%E9%9B%86/"/>
+      <url>/2023/10/11/%E9%BB%98%E8%AE%A4%E5%8F%A3%E4%BB%A4%E6%94%B6%E9%9B%86/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>设备&#x2F;系统名称</th><th>默认账号</th><th>默认密码</th></tr></thead><tbody><tr><td>tomcat</td><td>tomcat</td><td>tomcat</td></tr><tr><td>weblogic</td><td>weblogic</td><td>weblogic&#x2F;Oracle@123&#x2F;admin123&#x2F;weblogic123</td></tr><tr><td></td><td>guest</td><td>guest</td></tr><tr><td></td><td>portaladmin</td><td>portaladmin</td></tr><tr><td></td><td>system</td><td>system</td></tr><tr><td>Jboss</td><td>jboss</td><td>jboss</td></tr><tr><td></td><td>admin</td><td>admin</td></tr><tr><td>Nacos</td><td>nacos</td><td>nacos</td></tr></tbody></table>]]></content>
       
       
+      <categories>
+          
+          <category> 网络安全 </category>
+          
+          <category> 暴力破解 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 字典 </tag>
+            
+        </tags>
       
     </entry>
     
